@@ -427,7 +427,7 @@ void relatorioGeral(Distribuidora *dist)
         }
     }
 }
-
+//oi
 // Função principal do programa
 int main()
 {
